@@ -1,0 +1,10 @@
+Led Lighting in Toilet
+Features:
+--Fade In-Out Lighting
+--12V power source through MOSFET
+--Controled with Atmel Attiny 13A-PU
+--Turning on lighting by IR sensor
+--Determine the lighting  duration by ADC
+--Enter Power Save Mode while no human detected
+
+Last Update on 08062015
